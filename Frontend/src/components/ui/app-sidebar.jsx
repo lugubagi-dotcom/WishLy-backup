@@ -23,8 +23,8 @@ const data = {
       icon: LayoutDashboard,
     },
     {
-      title: "Seu gosto",
-      url: "../src/app/(Private)/gostopessoal/page.js",
+      title: "DashBoard",
+      url: "../dashboard",
       icon: Link2,
     },
     {
